@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=terminal
+Name[en_US]=XTerminal
+Exec=xterm -geom 80x40
+Name=XTerminal
+Icon=terminal

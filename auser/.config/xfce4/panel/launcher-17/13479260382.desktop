@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=README
+Comment=
+Icon=emacs
+Exec=emacs /home/auser/README
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,30 @@
+
+16 Jul 2012, 11:11:01: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+16 Jul 2012, 11:24:01: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+22 Aug 2012, 14:01:38: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+23 Aug 2012, 09:04:35: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+04 Sep 2012, 12:00:59: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+17 Sep 2012, 16:36:36: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+17 Sep 2012, 16:40:26: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+18 Sep 2012, 16:15:06: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+24 Sep 2012, 17:11:08: Tracker-Critical **: Could not connect to the D-Bus session bus, Could not connect: Connection refused
+
+24 Sep 2012, 17:11:10: Tracker-Critical **: tracker_writeback_shutdown: assertion `private != NULL' failed
+
+24 Sep 2012, 17:11:10: Tracker-Warning **: tracker_events already shutdown
+
+24 Sep 2012, 17:25:40: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+25 Sep 2012, 09:47:39: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+04 Mar 2013, 15:00:39: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+01 Apr 2013, 20:05:38: Tracker-Critical **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?

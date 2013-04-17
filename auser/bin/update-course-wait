@@ -1,0 +1,5 @@
+#!/bin/bash
+
+~/course-materials/tools/update-course
+echo "Press ENTER to continue."
+read

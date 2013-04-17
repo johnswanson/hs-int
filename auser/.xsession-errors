@@ -1,0 +1,18 @@
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running; starting gpg-agent without ssh support
+xfdesktop[1781]: starting up
+
+** (zeitgeist-datahub:1785): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/auser" was not found, exec: exo-desktop-item-edit, mime_type: inode/directory
+
+** (zeitgeist-datahub:1785): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/auser/bin/update-course-wait" was not found, exec: exo-desktop-item-edit, mime_type: application/octet-stream
+
+** (zeitgeist-datahub:1785): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/auser/course-materials/tools/update-course" was not found, exec: exo-desktop-item-edit, mime_type: application/octet-stream
+vmware-user: could not open /proc/fs/vmblock/dev
+ 1707 ?        00:00:00 VBoxClient
+SELinux Troubleshooter: Applet requires SELinux be enabled to run.
+ 1715 ?        00:00:00 VBoxClient
+ 1725 ?        00:00:00 VBoxClient
+ 1712 ?        00:00:00 VBoxClient
+ 1720 ?        00:00:00 VBoxClient
+** Message: applet now removed from the notification area
+** Message: applet now embedded in the notification area

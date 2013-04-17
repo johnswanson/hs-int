@@ -1,0 +1,94 @@
+[Wed Apr  3 11:14:43 2013 : 409440] speechd:   Speech Dispatcher Logging to file /home/auser/.speech-dispatcher/log//speechd.log
+[Wed Apr  3 11:14:43 2013 : 409580] speechd:  Initializing output module espeak with binary /usr/lib64/speech-dispatcher-modules/sd_espeak and configuration /etc/speech-dispatcher/modules//espeak.conf
+[Wed Apr  3 11:14:43 2013 : 409598] speechd:   Output module is logging to file /home/auser/.speech-dispatcher/log//espeak.log
+[Wed Apr  3 11:14:43 2013 : 410236] speechd:  Module espeak loaded.
+[Wed Apr  3 11:14:43 2013 : 649080] speechd: LINE here:|200-afrikaans af none|
+[Wed Apr  3 11:14:43 2013 : 649102] speechd: LINE here:|200-bulgarian-test bg none|
+[Wed Apr  3 11:14:43 2013 : 649109] speechd: LINE here:|200-bosnian bs none|
+[Wed Apr  3 11:14:43 2013 : 649116] speechd: LINE here:|200-catalan ca none|
+[Wed Apr  3 11:14:43 2013 : 649122] speechd: LINE here:|200-czech cs none|
+[Wed Apr  3 11:14:43 2013 : 649128] speechd: LINE here:|200-welsh-test cy none|
+[Wed Apr  3 11:14:43 2013 : 649134] speechd: LINE here:|200-danish da none|
+[Wed Apr  3 11:14:43 2013 : 649140] speechd: LINE here:|200-german de none|
+[Wed Apr  3 11:14:43 2013 : 649146] speechd: LINE here:|200-greek el none|
+[Wed Apr  3 11:14:43 2013 : 649152] speechd: LINE here:|200-default en none|
+[Wed Apr  3 11:14:43 2013 : 649158] speechd: LINE here:|200-en-scottish en sc|
+[Wed Apr  3 11:14:43 2013 : 649164] speechd: LINE here:|200-english en uk|
+[Wed Apr  3 11:14:43 2013 : 649170] speechd: LINE here:|200-lancashire en uk-north|
+[Wed Apr  3 11:14:43 2013 : 649176] speechd: LINE here:|200-english_rp en uk-rp|
+[Wed Apr  3 11:14:43 2013 : 649181] speechd: LINE here:|200-english_wmids en uk-wmids|
+[Wed Apr  3 11:14:43 2013 : 649187] speechd: LINE here:|200-english-us en us|
+[Wed Apr  3 11:14:43 2013 : 649193] speechd: LINE here:|200-en-westindies en wi|
+[Wed Apr  3 11:14:43 2013 : 649199] speechd: LINE here:|200-esperanto eo none|
+[Wed Apr  3 11:14:43 2013 : 649205] speechd: LINE here:|200-spanish es none|
+[Wed Apr  3 11:14:43 2013 : 649211] speechd: LINE here:|200-spanish-latin-american es la|
+[Wed Apr  3 11:14:43 2013 : 649217] speechd: LINE here:|200-estonian et none|
+[Wed Apr  3 11:14:43 2013 : 649223] speechd: LINE here:|200-finnish fi none|
+[Wed Apr  3 11:14:43 2013 : 649229] speechd: LINE here:|200-french (Belgium) fr be|
+[Wed Apr  3 11:14:43 2013 : 649235] speechd: LINE here:|200-french fr fr|
+[Wed Apr  3 11:14:43 2013 : 649240] speechd: LINE here:|200-greek-ancient grc none|
+[Wed Apr  3 11:14:43 2013 : 649246] speechd: LINE here:|200-hindi hi none|
+[Wed Apr  3 11:14:43 2013 : 649256] speechd: LINE here:|200-croatian hr none|
+[Wed Apr  3 11:14:43 2013 : 649264] speechd: LINE here:|200-hungarian hu none|
+[Wed Apr  3 11:14:43 2013 : 649270] speechd: LINE here:|200-armenian hy none|
+[Wed Apr  3 11:14:43 2013 : 649276] speechd: LINE here:|200-armenian-west hy west|
+[Wed Apr  3 11:14:43 2013 : 649282] speechd: LINE here:|200-indonesian-test id none|
+[Wed Apr  3 11:14:43 2013 : 649288] speechd: LINE here:|200-icelandic-test is none|
+[Wed Apr  3 11:14:43 2013 : 649294] speechd: LINE here:|200-italian it none|
+[Wed Apr  3 11:14:43 2013 : 649299] speechd: LINE here:|200-lojban jbo none|
+[Wed Apr  3 11:14:43 2013 : 649305] speechd: LINE here:|200-georgian-test ka none|
+[Wed Apr  3 11:14:43 2013 : 649311] speechd: LINE here:|200-kannada kn none|
+[Wed Apr  3 11:14:43 2013 : 649317] speechd: LINE here:|200-kurdish ku none|
+[Wed Apr  3 11:14:43 2013 : 649323] speechd: LINE here:|200-latin la none|
+[Wed Apr  3 11:14:43 2013 : 649328] speechd: LINE here:|200-latvian lv none|
+[Wed Apr  3 11:14:43 2013 : 649334] speechd: LINE here:|200-macedonian-test mk none|
+[Wed Apr  3 11:14:43 2013 : 649340] speechd: LINE here:|200-malayalam ml none|
+[Wed Apr  3 11:14:43 2013 : 649346] speechd: LINE here:|200-nahuatl - classical nci none|
+[Wed Apr  3 11:14:43 2013 : 649352] speechd: LINE here:|200-dutch-test nl none|
+[Wed Apr  3 11:14:43 2013 : 649357] speechd: LINE here:|200-norwegian no none|
+[Wed Apr  3 11:14:43 2013 : 649363] speechd: LINE here:|200-papiamento-test pap none|
+[Wed Apr  3 11:14:43 2013 : 649454] speechd: LINE here:|200-polish pl none|
+[Wed Apr  3 11:14:43 2013 : 649462] speechd: LINE here:|200-brazil pt br|
+[Wed Apr  3 11:14:43 2013 : 649468] speechd: LINE here:|200-portugal pt pt|
+[Wed Apr  3 11:14:43 2013 : 649473] speechd: LINE here:|200-romanian ro none|
+[Wed Apr  3 11:14:43 2013 : 649479] speechd: LINE here:|200-russian_test ru none|
+[Wed Apr  3 11:14:43 2013 : 649485] speechd: LINE here:|200-slovak sk none|
+[Wed Apr  3 11:14:43 2013 : 649490] speechd: LINE here:|200-albanian sq none|
+[Wed Apr  3 11:14:43 2013 : 649496] speechd: LINE here:|200-serbian sr none|
+[Wed Apr  3 11:14:43 2013 : 649502] speechd: LINE here:|200-swedish sv none|
+[Wed Apr  3 11:14:43 2013 : 649507] speechd: LINE here:|200-swahili-test sw none|
+[Wed Apr  3 11:14:43 2013 : 649513] speechd: LINE here:|200-tamil ta none|
+[Wed Apr  3 11:14:43 2013 : 649519] speechd: LINE here:|200-turkish tr none|
+[Wed Apr  3 11:14:43 2013 : 649525] speechd: LINE here:|200-vietnam vi none|
+[Wed Apr  3 11:14:43 2013 : 649534] speechd: LINE here:|200-Mandarin zh none|
+[Wed Apr  3 11:14:43 2013 : 649541] speechd: LINE here:|200-cantonese zh yue|
+[Wed Apr  3 11:14:43 2013 : 649547] speechd: LINE here:|200 OK VOICE LIST SENT|
+[Wed Apr  3 11:14:43 2013 : 649572] speechd:  Module espeak started sucessfully with message: 
+---------------
+Espeak: Initialized successfully.
+---------------
+
+[Wed Apr  3 11:14:43 2013 : 649635] speechd:  Initializing output module festival with binary /usr/lib64/speech-dispatcher-modules/sd_festival and configuration /etc/speech-dispatcher/modules//festival.conf
+[Wed Apr  3 11:14:43 2013 : 649641] speechd:   Output module is logging to file /home/auser/.speech-dispatcher/log//festival.log
+[Wed Apr  3 11:14:43 2013 : 650012] speechd:  Module festival loaded.
+[Wed Apr  3 11:14:43 2013 : 673653] speechd:  Error: Broken pipe to module.
+[Wed Apr  3 11:14:43 2013 : 673675] speechd:  Output module not running.
+[Wed Apr  3 11:14:43 2013 : 673683] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Wed Apr  3 11:14:43 2013 : 673699] speechd:   Couldn't load specified output module
+[Wed Apr  3 11:14:43 2013 : 673752] speechd:  Initializing output module dummy with binary /usr/lib64/speech-dispatcher-modules/sd_dummy and configuration (null)
+[Wed Apr  3 11:14:43 2013 : 673759] speechd:   Output module is logging to file /home/auser/.speech-dispatcher/log//dummy.log
+[Wed Apr  3 11:14:43 2013 : 674161] speechd:  Module dummy loaded.
+[Wed Apr  3 11:14:43 2013 : 683109] speechd: LINE here:|304 CANT LIST VOICES|
+[Wed Apr  3 11:14:43 2013 : 683149] speechd:  Module dummy started sucessfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Wed Apr  3 11:14:43 2013 : 690779] speechd:  Configuration has been read from "/etc/speech-dispatcher/speechd.conf"
+[Wed Apr  3 11:14:43 2013 : 690828] speechd:   Speech Dispatcher Logging to file /home/auser/.speech-dispatcher/log//speechd.log
+[Wed Apr  3 11:14:43 2013 : 690860] speechd:   Speech Dispatcher started with 2 output modules
+[Wed Apr  3 11:14:43 2013 : 693083] speechd: Speech Dispatcher started and waiting for clients ...
+[Wed Apr  3 11:14:54 2013 : 10399] speechd: write() error: Bad file descriptor
+[Wed Apr  3 11:14:54 2013 : 10426] speechd:  ERROR: Can't report index mark!
+[Wed Apr  3 11:14:54 2013 : 600013] speechd: write() error: Bad file descriptor
+[Wed Apr  3 11:14:54 2013 : 600035] speechd:  ERROR: Can't report index mark!

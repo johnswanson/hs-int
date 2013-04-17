@@ -1,0 +1,4 @@
+
+[State]
+timestamp=1342130733
+converted=gedit.convert;logview.convert;org.gnome.seahorse.manager.convert;mousetweaks.convert;org.gnome.crypto.pgp.convert;wm-schemas.convert;file-roller.convert;org.gnome.Vino.convert;org.gnome.crypto.pgp_keyservers.convert;gsettings-desktop-schemas.convert;opensubtitles.convert;brasero.convert;evolution.convert;libgnomekbd.convert;org.gnome.Vinagre.convert;gnome-settings-daemon.convert;org.gnome.packagekit.gschema.migrate;totem.convert;gnome-shell-overrides.convert;shotwell.convert;deja-dup.convert;org.gnome.crypto.cache.convert;gvfs-dns-sd.convert;gvfs-smb.convert;nautilus-sendto-convert;ibus.convert;metacity-schemas.convert;org.gnome.seahorse.convert;eog.convert;evince.convert;libedataserver.convert;empathy.convert;gnome-session.convert;gnome-bluetooth-nst;pythonconsole.convert;nautilus.convert;gnome-screenshot.convert;mutter-schemas.convert;

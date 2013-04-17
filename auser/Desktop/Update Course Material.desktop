@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Update Course Materials
+Comment=
+Exec=/home/auser/bin/update-course-wait
+Icon=emblem-important
+Path=/home/auser
+Terminal=true
+StartupNotify=false

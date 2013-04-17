@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Update Course Materials
+Comment=
+Exec=/home/auser/bin/update-course-wait
+Icon=emblem-important
+Path=/home/auser
+Terminal=true
+StartupNotify=false
+X-XFCE-Source=file:///home/auser/Desktop/Update%20Course%20Material.desktop

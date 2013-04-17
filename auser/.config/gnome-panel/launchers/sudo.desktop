@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=ibus-engine
+Name[en_US]=New User Setup
+Exec=sudo -s /root/setup.new
+Name=New User Setup
+Icon=ibus-engine
