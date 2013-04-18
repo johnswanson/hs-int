@@ -25,6 +25,9 @@ If anything, this should be *easier* than the standard installation method. (Jus
 	is a quick way to ssh into the VM. You'll need to do this to run the instructor-provided setup scripts (to change passwords) and compile and run your programs! *NOTE:* the password for *auser* is "password".
 	
 	What's so great about all this? Well, the "auser" folder in this repo is synced with the /home/auser folder on the VM. So you can edit all the files for this course on your host computer, but compile and run them on the guest Fedora OS.
+5. When you're done, run
+
+		vagrant destroy
 
 ## Contact ##
 John Swanson
