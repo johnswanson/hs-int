@@ -11,7 +11,11 @@ You should probably only install this if you're comfortable with the command lin
 If anything, this should be *easier* than the standard installation method. (Just note that I can't guarantee that this configuration is perfect.)
 
 1. [Install Vagrant](http://docs.vagrantup.com/v2/installation/).
-2. [Download](http://example.com/hs-int.box) (broken link, will be replaced shortly) the Vagrant box I've created--essentially the instructor-provided VM in a different package, although I had to make a few changes to get it working with Vagrant.
+2. [Download](http://db.tt/qUySAch8) the Vagrant box I've created--essentially the instructor-provided VM in a different package, although I had to make a few changes to get it working with Vagrant.
+3. Add the box to Vagrant:
+
+		vagrant box add hs-int /path/to/hs-int.box
+
 3. Clone this repository, then go to it and run "vagrant up"
 
 		git clone git@github.com:johnswanson/hs-int
